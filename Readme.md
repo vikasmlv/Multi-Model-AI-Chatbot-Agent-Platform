@@ -82,6 +82,18 @@ python frontend.py
 
 ## IMPORTANT
 ### Make sure backend python script is running in a separate terminal
+```
+```
+##SCREENSHOTS
+
+<img width="1920" height="1077" alt="Screenshot 2026-03-02 025501" src="https://github.com/user-attachments/assets/982a5b73-8b4b-4df2-abe1-e0d958ee4aaa" />
+
+```
+```
+
+<img width="1911" height="989" alt="image" src="https://github.com/user-attachments/assets/8fc23471-0110-41a5-99e6-b56c5e82086b" />
+
+
 
 
 
